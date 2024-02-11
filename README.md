@@ -1,12 +1,12 @@
-# COMP313 Group Project (Team 5)
 # Killer Zombie Candies (KZC)
 
-## Benjamin Sanson 300482847
-## Julius Rieser 300527307
-## Joshua Keegan 300523483
-## Geoffrey Gunawan student_id_here
-## Quinn Hart 300545506
-## Felix Nagel student_id_here
+# Contributors
+- Benjamin Sanson 
+- Julius Rieser 
+- Joshua Keegan 
+- Geoffrey Gunawan 
+- Quinn Hart 
+- Felix Nagel 
 
 # What is this?
 
@@ -34,7 +34,7 @@ We didn't use github co-pilot or any AI to help with development. We did use DAL
 
 # Installation and setup instructions ( or just the .exe if you have packaged the project fully)
 The zip file will only work for windows. To download and run on windows:<br>
-- Clone the repository with `git clone https://gitlab.ecs.vuw.ac.nz/course-work/comp313/2022/assignments/sansonbenj/kzc.git`
+- Clone the repository with `git clone `
 - Go to build directory
 - Extract 0.1.0-KZC-Team5.zip
 - Open 0.1.0-KZC-Team5/0.1.0-KZC-Team5
@@ -79,10 +79,4 @@ SHIFT to sprint / run faster
 
 ## Links
 
-- [Course Page](https://ecs.wgtn.ac.nz/Courses/COMP313_2022T2/WebHome)
-- [Team Discord Server](https://discord.com/channels/1007808724141879447/1007808724141879450)
-- [Course Discord Server](https://discord.com/channels/993278076333076561/993278077511684149)
-- [Unreal Engine Documentation](https://docs.unrealengine.com/5.0/en-US/)
 - [The repository wiki](https://gitlab.ecs.vuw.ac.nz/course-work/comp313/2022/assignments/sansonbenj/kzc/-/wikis/home)
-- [Project Course Page](https://ecs.wgtn.ac.nz/Courses/COMP313_2022T2/GameDevelopmentProject)
-- [Project Reflecton Page](https://ecs.wgtn.ac.nz/Courses/COMP313_2022T2/CodeReflection)
